@@ -1,0 +1,12 @@
+Análisis Espectral Singular (SSA)
+
+Es una técnica no parámetrica utilizada como variante de los métodos tradicionales de series de tiempo para generar predicciones.
+
+Es en general una técnica muy robusta que ha superado varias veces a los tradicionales modelos ARIMA a nivel predicción.
+
+Para este caso se consideró hacer la predicción de 3 series de tiempo: Inflación interanual (Vs. VAR), 
+                                                                       Índice SP500 (VS. Regresion PLS),
+                                                                       PIB (VSSA Vs. SSA)
+                                                                       
+                                                                       
+Se presenta una versión automatizada para la elección de los hiperparámetros tanto para RSSA como para VSSA (Una versión robusta a outliers.)
