@@ -10,3 +10,5 @@ Para este caso se consideró hacer la predicción de 3 series de tiempo: Inflaci
                                                                        
                                                                        
 Se presenta una versión automatizada para la elección de los hiperparámetros tanto para RSSA como para VSSA (Una versión robusta a outliers.)
+
+En el PDF adjunto se muestran los resultados y algunas características teóricas de esta clase de modelos.
